@@ -1,1 +1,1 @@
-# MERN_STACK_FinanzasCorporativas
+Hola , yo soy jhonatan rodriguez estudiante de la universidad autonoma de occidente y les comparto una pieza de diseño y programacion donde recreo los procesos financieros que tienen lugar dentro de las finanzas de una empresa el desarrollo esta basado en el problema del texto file:///C:/Users/pc/Downloads/Fundamentos_de_Finanzas_Corporativas1.pdf, capitulo: 3  Estados fi nancieros y planeación financiera a largo plazo, pag: 117-119, se logra desarrollar el balance general, estado de resultados y razones financieras, que lo disfruten.
