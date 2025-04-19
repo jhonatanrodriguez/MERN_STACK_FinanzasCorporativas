@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "67fd70e37e63ff596f1c5f18"
+  },
+  "ventas": 4053,
+  "costoDeVentas": 2780,
+  "depreciacion": 550,
+  "interesesPagados": 502,
+  "impuestos": 75,
+  "dividendos": 47,
+  "adicionUtilidadesRetenidas": 99
+}]

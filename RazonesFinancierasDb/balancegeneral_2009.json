@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "67ff383163c0c7491fc51451"
+  },
+  "año": "2009",
+  "efectivo": 215,
+  "cuentasPorCobrar": 310,
+  "inventario": 328,
+  "plantaEquiposNetos": 6527,
+  "cuentasPorPagar": 298,
+  "pagaresPorPagar": 1427,
+  "deudaLargoPlazo": 2308,
+  "accionesComunesSuperavitPagado": 1000,
+  "utilidadesRetenidas": 2347,
+  "balanceAnterior": {
+    "año": "2008",
+    "efectivo": 210,
+    "cuentasPorCobrar": 355,
+    "inventario": 507,
+    "plantaEquiposNetos": 6085,
+    "cuentasPorPagar": 207,
+    "pagaresPorPagar": 1715,
+    "deudaLargoPlazo": 1987,
+    "accionesComunesSuperavitPagado": 1000,
+    "utilidadesRetenidas": 2248
+  }
+}]
